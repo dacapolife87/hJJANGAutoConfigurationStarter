@@ -2,11 +2,13 @@
 
 1. 사용할 곳에서 의존성을 추가한다.
 
-<pre>
-    <groupId>me.hjjang</groupId>
-    <artifactId>hjjang-spring-boot-starter</artifactId>
-    <version>1.0-SNAPSHOT</version>
-</pre>
+
+> <dependency>
+>     <groupId>me.hjjang</groupId>
+>     <artifactId>hjjang-spring-boot-starter</artifactId>
+>     <version>1.0-SNAPSHOT</version>
+> </dependency>
+
 
 2. properties값에 값이 셋팅될 경우 해당값으로 주입이 된다.
 
